@@ -5,7 +5,7 @@ This project is about the military database system created by me and my team
 Krishna Vamsy K<br>
 Vignesh Thangabalan<br>
 M Pradeep<br>
-M Jairam Chandra<br>
+M Jai Ram Chandra<br>
 A Sampath Dev<br>
 
 ## About 
